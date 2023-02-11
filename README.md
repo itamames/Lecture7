@@ -31,7 +31,7 @@ For each queue, we keep:
 * the positions front and back, which represent the ends of the queue;
 * the number of elements that are actually in the queue, currentSize.
 
-![queue1](images/queue1.png)
+![queue1](images/Queue1.png)
 Image from https://www.geeksforgeeks.org/queue-using-stacks/
 
 Operations:
